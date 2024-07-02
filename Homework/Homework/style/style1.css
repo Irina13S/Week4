@@ -1,0 +1,92 @@
+h2 {
+  width: 1129px;
+  height: 270px;
+  font-family: "Jost", sans-serif;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 120px;
+  padding-left: 150px;
+}
+.subtitle {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/Homework/assest/Header.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+}
+.one {
+  text-decoration: none;
+  color: black;
+  font-family: "Jost", sans-serif;
+  font-size: 16px;
+}
+.two {
+  text-decoration: none;
+  color: black;
+  font-family: "Jost", sans-serif;
+  font-size: 16px;
+}
+.three {
+  text-decoration: none;
+  color: black;
+  font-family: "Jost", sans-serif;
+  font-size: 16px;
+}
+.four {
+  text-decoration: none;
+  color: black;
+  font-family: "Jost", sans-serif;
+  font-size: 16px;
+}
+.five {
+  text-decoration: none;
+  color: black;
+  font-family: "Jost", sans-serif;
+  font-size: 16px;
+}
+#tell {
+  text-decoration: none;
+  color: rgb(246, 244, 247);
+  text-align: end;
+  font-size: 33px;
+  font-family: "Jost", sans-serif;
+}
+#mail {
+  text-decoration: none;
+  color: rgb(246, 244, 247);
+  text-align: left;
+  font-size: 33px;
+  font-family: "Jost", sans-serif;
+}
+a:link {
+  color: black;
+}
+a:hover {
+  color: forestgreen;
+}
+a:active {
+  color: blueviolet;
+}
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Jost", sans-serif;
+  font-size: 18px;
+}
+.box {
+  margin-left: 50px;
+}
+.text {
+  width: 485px;
+  height: 756px;
+  font-size: 14px;
+}
+h4 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#red {
+  font-size: 18px;
+  color: red;
+}

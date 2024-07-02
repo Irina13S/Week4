@@ -1,0 +1,36 @@
+.parent {
+  width: 70%;
+  min-height: 250px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: row;
+  justify-content: normal;
+  align-items: flex-start;
+  gap: 10px;
+}
+.child {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+}
+.child:nth-child(2n) {
+  background-color: pink;
+}
+.child:nth-child(3n) {
+  background-color: rgb(230, 192, 255);
+}
+.child_3 {
+  order: 3;
+  height: 130px;
+  align-self: center;
+  flex-basis: 200px;
+}
+.child_1 {
+  order: 1;
+}
+.child_2 {
+  order: 2;
+}
+.child_4 {
+  order: 4;
+}
